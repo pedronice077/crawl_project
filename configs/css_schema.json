@@ -1,0 +1,17 @@
+{
+  "name": "HNItem",
+  "baseSelector": ".athing",
+  "fields": [
+    {
+      "name": "title",
+      "selector": ".storylink",
+      "type": "text"
+    },
+    {
+      "name": "url",
+      "selector": ".storylink",
+      "type": "attribute",
+      "attribute": "href"
+    }
+  ]
+}

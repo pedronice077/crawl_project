@@ -1,0 +1,8 @@
+# Common crawler run parameters
+cache_mode: "bypass"
+wait_until: "networkidle"
+page_timeout: 30000           # ms
+delay_before_return_html: 0.5 # seconds
+scan_full_page: true
+scroll_delay: 0.3
+verbose: true

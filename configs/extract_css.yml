@@ -1,0 +1,4 @@
+# CLI extraction strategy (JSON-CSS)
+type: "json-css"
+params:
+  verbose: true
